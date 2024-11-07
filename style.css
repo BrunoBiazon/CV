@@ -1,1 +1,88 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #691818;
+    background-image: url('https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Fpremium-photo%2Ftechnology-abstract-circuit-board-texture-background-hightech-futuristic-circuit-board-banner-wallpa_24385449.htm&psig=AOvVaw2I55PHmQGd1AoIn37B0JxF&ust=1731042905799000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPD8wsK7yYkDFQAAAAAdAAAAABAp'); 
+    background-size: cover; 
+    background-position: center; 
+    background-repeat: no-repeat; 
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+}
 
+header {
+    background-color: #691818;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 2em;
+}
+
+header ul {
+    list-style: none;
+    padding: 0;
+}
+
+header ul li {
+    margin: 5px 0;
+}
+
+header ul li a {
+    color: #4db8ff;
+    text-decoration: none;
+}
+
+section {
+    background-color: #fff;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+section h1 {
+    font-size: 1.8em;
+    color: #333;
+    border-bottom: 2px solid #4db8ff;
+    padding-bottom: 10px;
+    margin-bottom: 15px;
+}
+
+
+ol, ul {
+    padding-left: 20px;
+}
+
+ul {
+    list-style-type: disc;
+}
+
+ol {
+    list-style-type: decimal;
+}
+
+ul li, ol li {
+    margin: 8px 0;
+}
+section ul li a {
+    color: #333;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+section ul li a:hover {
+    color: #4db8ff;
+    text-decoration: underline;
+}
+
+footer {
+    text-align: center;
+    background-color: #333;
+    color: #fff;
+    padding: 15px;
+    margin-top: 20px;
+}
