@@ -1,1 +1,2 @@
-Projeto CV da materia front-end.
+## Link CV
+- https://brunobiazon.github.io/CV/
